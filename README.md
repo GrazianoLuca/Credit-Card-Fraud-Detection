@@ -8,6 +8,8 @@ The project follows the preparation of three models:
   - decision tree classifier
   - neural network model
 
+Again, since we are mostly interested in ensuring all true positives have been identified specificity has been used to compare models' performances.
+
 ### Logistic Regression
 The model used is a Logistic Regression with varying parameters, due to the fact that the dataset is highly unbalanced and the fraud cases could be considered as outliers.
 
